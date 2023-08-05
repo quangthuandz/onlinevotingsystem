@@ -1,0 +1,83 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+
+ 
+    Created on : May 17, 2023, 7:32:59 AM
+    Author     : khanh
+
+
+
+*
+* ==========================================
+* CUSTOM UTIL CLASSES
+* ==========================================
+*
+
+
+.border-md {
+    border-width: 2px;
+}
+git b
+.btn-facebook {
+    background: #405D9D;
+    border: none;
+}
+
+.btn-facebook:hover, .btn-facebook:focus {
+    background: #314879;
+}
+
+.btn-twitter {
+    background: #42AEEC;
+    border: none;
+}
+
+.btn-twitter:hover, .btn-twitter:focus {
+    background: #1799e4;
+}
+
+.input-group {
+          position: relative;
+}
+
+.input-group:focus-within label {
+          transform: translate(0, -30px) scale(0.8);
+          color: #ced4da;
+}
+
+.input-group:focus-within #id {
+          outline-color: #ced4da;
+}
+
+
+
+
+*
+* ==========================================
+* FOR DEMO PURPOSES
+* ==========================================
+*
+
+
+body {
+    min-height: 100vh;
+}
+
+.form-control:not(select) {
+    padding: 1.5rem 0.5rem;
+}
+
+select.form-control {
+    height: 52px;
+    padding-left: 0.5rem;
+}
+
+.form-control::placeholder {
+    color: #ccc;
+    font-weight: bold;
+    font-size: 0.9rem;
+}
+.form-control:focus {
+    box-shadow: none;
+}*/
